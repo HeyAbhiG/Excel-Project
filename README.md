@@ -1,4 +1,3 @@
 # Excel- Vrinda Stores Data Analysis
-Here I create a Dashboard Using Advance Excel 
-In this Sales Dashboard, I did Data Cleaning, Data Processing , Data Visualization  
+I did Data Cleaning, Data Processing and Data Visualization of RAW Data 
 Report-creation which helps me find out useful insights to help Client.
