@@ -1,5 +1,8 @@
+# Vrinda-Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
 ## Project Objective
 ### The Vrinda Store wants to create an annual sales report for 2022. So that, the owner of the Vrinda store can understand their customers and grow more sales in 2023 & 2024.
+## Data Used
+
 ### Questions (KPIs)
 - Compare the sales and orders using single chart.
 - Which month got the highest sales and orders?
@@ -24,4 +27,4 @@
 - The states of Maharashtra, Karnataka and Uttar Pradesh are the top 3 product buyers.
 - The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
 - The maximum number of products customer orders from Amazon, Flipkart and Myntra channels.
-More than 90% of the products delivered
+- More than 90% of the products delivered.
